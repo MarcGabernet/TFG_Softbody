@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Left Hand
+  - Right Hand
+  - Barrier 0
+  - Barrier 60
+  - Barrier 120
+  - Barrier 180
+  - Barrier 240
+  - Barrier 300
+  - Hexagon
+  - ColliderSuperior
+  - ColliderInferior
+  - Softbody
+  - Building
+  - Vertex
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Esfera
+  - Water
+  - UI
+  - Player
+  - Interactible
+  - Teleport Anchors
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
